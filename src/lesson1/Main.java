@@ -2,7 +2,7 @@ package lesson1;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ghbq123");
+        System.out.println("Hello");
 
 
     }
